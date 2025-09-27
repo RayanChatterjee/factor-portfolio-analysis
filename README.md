@@ -64,7 +64,5 @@ This project mimics the construction of **Fama-French style factors** (Size, Val
 
 ## 👤 Author
 
-Developed by **[Your Name]** — aspiring Quantitative Analyst.  
-Passionate about **quant research, portfolio construction, and risk modeling**.  
-
+Developed by **Dr. Rayan Chatterjee** — Quantitative Researcher.  
 
